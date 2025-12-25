@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-midnight
 title: Django Ninja Workshop
 description: Develop REST API fast and easy
+author: Khashayar Khosrosourmi
