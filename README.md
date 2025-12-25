@@ -13,3 +13,4 @@ you spot a grammatical mistake. Cheers!
 ### [Path & Query Params](how_tos.md)
 ### [Models and Admin](models_admin.md)
 ### [CRUD](crud.md)
+### [Testing](test.md)
