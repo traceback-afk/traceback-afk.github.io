@@ -8,5 +8,8 @@ you spot a grammatical mistake. Cheers!
 
 # Content
 ### [Basic Concepts](basic_concepts.md)
-### [Django & Django Ninja]()
-### [Project Setup]()
+### [Django & Django Ninja](django_django_ninja.md)
+### [Project Setup](setup.md)
+### [Path & Query Params](how_tos.md)
+### [Models and Admin](models_admin.md)
+### [CRUD](crud.md)
