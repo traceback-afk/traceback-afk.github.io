@@ -1,6 +1,4 @@
 ![django ninja](https://django-ninja.dev/img/hero.png)
-# Django Ninja Workshop
-Develop API endpoints fast, easy and clean
 
 The purpose of this workshop is to make you familiar with 
 REST API development basics and set you on a path to learn more. 
