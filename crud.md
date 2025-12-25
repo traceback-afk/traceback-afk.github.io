@@ -19,6 +19,21 @@ class BookOut(Schema):
     updated_at: datetime
 ```
 
+### ModelSchema
+```python
+from ninja import ModelSchema
+
+class BookInSchema(ModelSchema):
+    class Meta:
+        model = Book
+        fields = ["name", "author"]
+        
+class BookOutSchema(ModelSchema):
+    class Meta:
+        model = Book
+        fields = ["id", "name", "author", "created_at", "updated_at"]
+```
+
 ### api.py
 ```python
 from ninja import NinjaAPI
